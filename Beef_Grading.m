@@ -1,7 +1,7 @@
-I = imread('F:/Beef Images/63-0193-4.jpg');
+I = imread('Beef Grading/Images/63-0193-4.jpg');
 [I2,rect] = imcrop(I);
 imshow(I2);
-imwrite(I2,'F:/Beef Images/new.jpg');
+imwrite(I2,'Beef Grading/Images/new.jpg');
 newmap = im2bw(I2);
 imshow(newmap)
 pix = size(newmap);
