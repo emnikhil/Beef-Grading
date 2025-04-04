@@ -80,10 +80,19 @@ Fat % after correction: 46.3%
 ==> Select Grade Beef
 ```
 
-Beef Grading/
-│
-├── Images/
-│   └── 63-0713.jpg          # Image Samples
-├── Beef Grading.py          # Python script
-├── Beef_Grading.m           #Matlab Script
-├── README.md                # Project documentation
+## 📁 File Structure
+
+Beef Grading/  
+│  
+├── Images/  
+│   └── 63-0713.jpg  
+│       ⤷ Sample beef image used for grading  
+│  
+├── Beef Grading.py  
+│   ⤷ Python script for beef grading using image processing  
+│  
+├── Beef_Grading.m  
+│   ⤷ MATLAB script for beef grading (alternative implementation)  
+│  
+├── README.md  
+│   ⤷ Project documentation file  
