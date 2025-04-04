@@ -6,7 +6,7 @@
 
 **Project Duration**: September 2019 - October 2019 (Internship)
 
-**Location**: King MongKut's Institute of Engineering and Technology Ladkrabang, Bangkok. Thailand (On-Site)
+**Location**: King Mongkut's Institute of Technology Ladkrabang, Bangkok. Thailand (On-Site)
 
 ---
 
