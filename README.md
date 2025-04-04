@@ -1,6 +1,9 @@
 # 🥩 Beef Grading - Internship Research Project
 
-**Supervisor**: Assoc. Prof. Dr. Sunti Tuntrakool  
+**Supervisors**:  
+[1] Assoc. Prof. Dr. Sunti Tuntrakool  
+[2] Dr. Kunya Tuntivisoottikul  
+[3] Mr. Wacharin Kongpiboon  
 
 **Contributor**: Nikhil Gupta (Intern)
 
@@ -88,6 +91,9 @@ Beef Grading/
 │  
 ├── Beef_Grading.m  
 │   ⤷ MATLAB script for beef grading (alternative implementation)  
-│  
+│ 
+├── Beef Grading Paper.pdf 
+│   ⤷ Research Paper Written
+│ 
 ├── README.md  
 │   ⤷ Project documentation file  
