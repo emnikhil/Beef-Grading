@@ -75,15 +75,6 @@ The grading model is built using Python and employs computer vision methods to a
 
 ---
 
-## 🧮 Sample Output
-
-```python
-63.071 white pixels, out of 100000 pixels in total.
-Fat % before correction: 48.3%
-Fat % after correction: 46.3%
-==> Select Grade Beef
-```
-
 ## 📁 File Structure
 
 Beef Grading/  
