@@ -1,8 +1,12 @@
 # 🥩 Beef Grading - Internship Research Project
 
-**Author**: Assoc.Prof.Dr.Sunti Tuntrakool, Nikhil Gupta
+**Supervisor**: Assoc. Prof. Dr. Sunti Tuntrakool  
+
+**Contributor**: Nikhil Gupta (Intern)
+
 **Project Duration**: September 2019 - October 2019 (Internship)
-**Location: King MongKut's Institute of Engineering and Technology Ladkrabang, Bangkok. Thailand (On-Site)
+
+**Location**: King MongKut's Institute of Engineering and Technology Ladkrabang, Bangkok. Thailand (On-Site)
 
 ---
 
