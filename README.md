@@ -77,23 +77,3 @@ The grading model is built using Python and employs computer vision methods to a
    Based on fat percentage thresholds, classify the beef into one of the defined grades.
 
 ---
-
-## 📁 File Structure
-
-Beef Grading/  
-│  
-├── Images/  
-│   └── 63-0713.jpg  
-│       ⤷ Sample beef image used for grading  
-│  
-├── Beef Grading.py  
-│   ⤷ Python script for beef grading using image processing  
-│  
-├── Beef_Grading.m  
-│   ⤷ MATLAB script for beef grading (alternative implementation)  
-│ 
-├── Beef Grading Paper.pdf 
-│   ⤷ Research Paper Written
-│ 
-├── README.md  
-│   ⤷ Project documentation file  
